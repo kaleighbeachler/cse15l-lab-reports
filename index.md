@@ -7,21 +7,21 @@ _Hello World_
 # Heading
 ## Heading 2
 
-Heading 1
+Heading 1.1
 =======
 
-Heading 2
+Heading 1.2
 ===
 
-Heading 3
+Heading 1.3
 =
 
-Heading 4
+Heading 1.4
      ==
      
-heading!
+heading2!
 -------
 
-*List1
-*List2
-*List3
+* List1
+* List2
+* List3
