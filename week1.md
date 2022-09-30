@@ -110,8 +110,8 @@ SSH keys make it so you do not have to type in your password every time you log 
 Use the following to set up ssh-keygen. 
 ![](SSH%20Setup%20SS.png)
 
-The following image shows the running of the commands.
-![](Keygen%20SS.png)
+The following image shows the running of the commands (excluding the fingerprint, where a white bar appears in stead).
+![](SSH%20KG.png)
 
 Now, navigate to the server and type these commands:
 
