@@ -7,9 +7,9 @@ _Hello World_
 # Heading
 ## Heading 2
 
-[Lab Report 1](lab-report-1-week-0.html)
+[Lab Report 0](lab-report-1-week-0.html)
 
-[Lab Report 1](https://kbeachler.github.io/cse15l-lab-reports/lab-report-1-week-0.html) 
+[Lab Report 1](https://kbeachler.github.io/cse15l-lab-reports/week1.html) 
 
 Heading 1.1
 =======
