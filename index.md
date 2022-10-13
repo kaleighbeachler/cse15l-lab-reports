@@ -5,7 +5,7 @@ Hello World!
 
 [Lab Report 1](week1.html) 
 
-[Lab Report 2](week2.html)
+[Lab Report 2](week3.html)
 
 1) Hi
 2) Welcome
