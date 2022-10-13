@@ -7,6 +7,3 @@ Hello World!
 
 [Lab Report 2](week3.html)
 
-1) Hi
-2) Welcome
-3) Goodbye
