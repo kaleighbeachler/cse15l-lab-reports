@@ -82,7 +82,9 @@ This SearchEngine also allows for Strings that contain a certain String to be re
 <br>
 Let's say I use the following url:
 
-```localhost:5002/search?s=app```
+```
+localhost:5002/search?s=app
+```
 
 Now, the path is different. The handleRequest method will still execute, but the first if statement will not because "/add" is not in the path.  Since, "/search" is in the path, the else-if part of the method will execute. The ArrayList "strs" is traversed and each element is checked for containing the String "app". If the element does contain "app", it is added to the "ans" String along with a new line. This allows for a properly formatted output to be returned after the loop is done.  The contents of "strs" have NOT been altered.  However, all of the elements of "strs" containing "app" will be printed. We can see this in the screenshot below. 
 ![](SearchApp.png)
