@@ -7,3 +7,5 @@ Hello World!
 
 [Lab Report 2](week3.html)
 
+[Lab Report 3](week5.html)
+
