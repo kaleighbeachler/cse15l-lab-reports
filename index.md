@@ -9,3 +9,4 @@ Hello World!
 
 [Lab Report 3](week5.html)
 
+[Lab Report 4](week7.html)
