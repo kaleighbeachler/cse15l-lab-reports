@@ -60,7 +60,7 @@ This takes us to the next instance of ``start``.
 
 ``.``
 
-![Alt text](W7%20SS/..png)
+![Alt text](W7%20SS/period.png)
 
 The period will repeat the previous sequence of commands, which was ``c`` ``e`` and ``base``.
 
