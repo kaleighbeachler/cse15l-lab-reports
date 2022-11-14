@@ -59,7 +59,6 @@ This takes us to the next instance of ``start``.
 <br>
 
 ``.``
-
 ![Alt text](W7%20SS/period.png)
 
 The period will repeat the previous sequence of commands, which was ``c`` ``e`` and ``base``.
@@ -75,7 +74,7 @@ Since there is one more instance of ``start`` in the file, we use ``n`` one more
 <br>
 
 ``.``
-![Alt text](W7%20SS/.2.png)
+![Alt text](W7%20SS/per2.png)
 This repeats the previous sequence, which was ``c`` ``e`` and ``base``.
 
 <br>
