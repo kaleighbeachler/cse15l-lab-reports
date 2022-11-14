@@ -30,7 +30,7 @@ The ``/start`` command + ``<return>`` will take the cursor to the first occurren
 ``c`` ``e``
 ![Alt text](W7%20SS/ce.png)
 
-Typing ``c`` and ``e`` will delete the word and enter insert mode. 
+Typing ``c`` and ``e`` will delete the word ``start`` and enter insert mode. 
 
 <br>
 
@@ -38,7 +38,7 @@ Typing ``c`` and ``e`` will delete the word and enter insert mode.
 
 ![Alt text](W7%20SS/base.png)
 
-This command inserts the word base in where the cursor is. 
+This command inserts the word ``base`` where the cursor is. 
 
 <br>
 
@@ -54,7 +54,7 @@ Pressing ``<esc>`` exits insert mode and goes back to normal mode.
 
 ![Alt text](W7%20SS/n.png)
 
-This takes us to the next instance of start.
+This takes us to the next instance of ``start``.
 
 <br>
 
@@ -100,7 +100,7 @@ The total number of keystrokes was 21.
 
 Style 1: Took me 1 minute and 13 seconds. I typed the scp command incorrectly a few times because of the “:~/” at the end.
 
-Style 2: took me 35 seconds and I didn’t encounter any issues. 
+Style 2: Took me 35 seconds and I didn’t encounter any issues. 
 <br>
 
 
