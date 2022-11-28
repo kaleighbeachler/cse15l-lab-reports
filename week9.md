@@ -67,6 +67,12 @@ Trace of Submission #2 (Corrected ListExamples file)
 6: Removes current student-submission. No stdout nor stderr. Return code is 0.
 7: Clones student submission. No stdout nor  stderr. Return code is 0.
 8: Copies TestListExamples into student submissions folder. No stdout nor stderr. Returns code is 0.
+
+
+
+
+
+
 9: Opens student submission folder. No stdout nor stderr. Return code is 0.
 10: Doesn't run: space
 11: If statement evalutes to false because the file is found. Return code is 0. No stdout nor stderr.
