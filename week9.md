@@ -41,13 +41,13 @@ echo "You've passed $PASSED out of $TOTAL tests. Score: $PASSED/$TOTAL"
 [Submission #1](https://github.com/ucsd-cse15l-f22/list-methods-lab3)
 
 Output:
-![Alt text]![Alt text](W9%20SS/S1Output.png)
+![Alt text](W9%20SS/S1Output.png)
 
 
 [Submission #2](https://github.com/ucsd-cse15l-f22/list-methods-corrected.git)
 
 Output:
-![Alt text]![Alt text](W9%20SS/CorrectOutput.png)
+![Alt text](W9%20SS/CorrectOutput.png)
 
 [Submission #3](https://github.com/ucsd-cse15l-f22/list-methods-compile-error.git)
 
