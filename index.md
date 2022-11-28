@@ -10,3 +10,5 @@ Hello World!
 [Lab Report 3](week5.html)
 
 [Lab Report 4](week7.html)
+
+[Lab Report 5](week9.html)
